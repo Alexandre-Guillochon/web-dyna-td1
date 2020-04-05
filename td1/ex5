@@ -6,7 +6,7 @@
 	</head>
 	<body>
 	<?php
-	include("file.php");
+	include("fonction_exo5.php");
 	?>
 	
 	<h2> CrÃ©ation d'un tableau :</h2>
